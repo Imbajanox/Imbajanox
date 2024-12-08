@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Aspiring Software Engeneer from Germany, always trying to learn new stuff.
-
+Currently working full time as a Junior PHP 🐘 Developer...
 
 ## Overview
 
@@ -26,6 +26,7 @@ but I also enjoy doing stuff with Game Engines.
 
 ## Currently learning
 
+- PHP, LAMINAS
 - HTML, CSS deepdive
 - JavaScript
 - React
