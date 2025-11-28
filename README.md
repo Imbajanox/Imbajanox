@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Aspiring Software Engeneer from Germany, always trying to learn new stuff.
+Aspiring Software Engineer from Germany, always trying to learn new things.
 Currently working full time as a Junior PHP 🐘 Developer...
 
 ## Overview
