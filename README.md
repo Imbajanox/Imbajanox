@@ -51,7 +51,7 @@ Here are some projects that reflect my current skills and learning paths. Click 
 
 > A feature-rich task management application implementing key UI/UX concepts.
 > * Features include **drag-and-drop** functionality, categories, due dates, and priority levels.
-> * Uses **Local Storage** for data persistence.
+> * Uses **MySQL** Database for data persistence.
 * **Tech Stack:** PHP, JavaScript, WebAwesome
 * **➡️ [View Project](https://todo.imbajanox.de)**
 
